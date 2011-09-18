@@ -45,7 +45,7 @@
 <br>The system should have firewall and anti-virus software to project data from attacks.</br>
  
 === Personnel Requirements ===
-[http://code.google.com/p/biology-learning-assistant-system/svn/supportReq.png]
+<img src=http://code.google.com/p/biology-learning-assistant-system/svn/supportReq.png>
 Name	Organization	Role
 Yunkai Liu	Gannon Uni	Biology Information Advisor
 Frank Xu	Gannon Uni	Project Manager
