@@ -50,7 +50,7 @@
 ||Frank Xu ||Gannon Uni ||Project Manager ||
 
 === Support Requirements ===
-[http://biology-learning-assistant-system\.googlecode\.com\svn\supportReq.png]
+[http://biology-learning-assistant-system.googlecode.com/svn/personalReq.jpg]
 ||*Name*||*Organization* ||*Role*||
 ||Yunkai Liu  ||Gannon Uni ||Biology Information Advisor ||
 ||Frank Xu ||Gannon Uni ||Project Manager ||
