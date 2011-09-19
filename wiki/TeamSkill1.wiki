@@ -18,7 +18,7 @@ The project is developed mainly to solve the difficulty in biology education the
 
 [http://biology-learning-assistant-system.googlecode.com/svn/f2.jpg]
 [http://biology-learning-assistant-system.googlecode.com/svn/t3.jpg]
-Figure BLAS with subsystem and actors 
+<br>Figure BLAS with subsystem and actors</br> 
 
 = Actor Survey =
 == Actors for BLAS == 
