@@ -1,7 +1,8 @@
 #labels Featured
-Project Title:	 Biology Learning Assistant System
-Team Skill 1:	 Analyzing the Problem
-Team Members:	 Lei, Zhang;Qing, Guan;Tao, Ding
+=Project Title:=	 
+<br>Biology Learning Assistant System</br>
+<br>Team Skill 1:	 Analyzing the Problem</br>
+<br>Team Members:	 Lei, Zhang;Qing, Guan;Tao, Ding</br>
 
 = BLAS Problem Statement =
 The project is developed mainly to solve the difficulty in biology education the stakeholders mention. After problem analyzing, BLAS teams identified 
