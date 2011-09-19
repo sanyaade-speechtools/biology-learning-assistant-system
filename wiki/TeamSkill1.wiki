@@ -1,4 +1,5 @@
 #labels Featured
+<wiki:toc max_depth = "2" />
 
 =Project Title:=	 
 <br>Biology Learning Assistant System</br>
@@ -13,7 +14,10 @@ The project is developed mainly to solve the difficulty in biology education the
 = Problem Statement for Students = 
 [http://biology-learning-assistant-system.googlecode.com/svn/t2.jpg]
 = BLAS System Block Diagram with Actors Identified =
+[http://biology-learning-assistant-system.googlecode.com/svn/f1.jpg]
 
+[http://biology-learning-assistant-system.googlecode.com/svn/f2.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/t3.jpg]
 Figure BLAS with subsystem and actors 
 
 = Actor Survey =
