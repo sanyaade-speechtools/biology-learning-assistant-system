@@ -1,4 +1,5 @@
 #labels Featured
+
 =Project Title:=	 
 <br>Biology Learning Assistant System</br>
 <br>Team Skill 1:	 Analyzing the Problem</br>
@@ -8,16 +9,17 @@
 The project is developed mainly to solve the difficulty in biology education the stakeholders mention. After problem analyzing, BLAS teams identified 
 
 = Problem Statement for Professors =
-
+[http://biology-learning-assistant-system.googlecode.com/svn/t1.jpg]
 = Problem Statement for Students = 
-
+[http://biology-learning-assistant-system.googlecode.com/svn/t2.jpg]
 = BLAS System Block Diagram with Actors Identified =
 
 Figure BLAS with subsystem and actors 
 
 = Actor Survey =
 == Actors for BLAS == 
-
+[http://biology-learning-assistant-system.googlecode.com/svn/t3.jpg]
 == Non actor stakeholders for DIST ==
-
+[http://biology-learning-assistant-system.googlecode.com/svn/t4.jpg]
 = Constraints Imposed on the Solution =
+[http://biology-learning-assistant-system.googlecode.com/svn/t5.jpg]
