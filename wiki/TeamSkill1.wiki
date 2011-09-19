@@ -1,0 +1,22 @@
+#labels Featured
+Project Title:	 Biology Learning Assistant System
+Team Skill 1:	 Analyzing the Problem
+Team Members:	 Lei, Zhang;Qing, Guan;Tao, Ding
+
+= BLAS Problem Statement =
+The project is developed mainly to solve the difficulty in biology education the stakeholders mention. After problem analyzing, BLAS teams identified 
+
+= Problem Statement for Professors =
+
+= Problem Statement for Students = 
+
+= BLAS System Block Diagram with Actors Identified =
+
+Figure BLAS with subsystem and actors 
+
+= Actor Survey =
+== Actors for BLAS == 
+
+== Non actor stakeholders for DIST ==
+
+= Constraints Imposed on the Solution =
