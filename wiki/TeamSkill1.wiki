@@ -14,7 +14,7 @@ The project is developed mainly to solve the difficulty in biology education the
 = Problem Statement for Students = 
 [http://biology-learning-assistant-system.googlecode.com/svn/t2.jpg]
 = BLAS System Block Diagram with Actors Identified =
-[http://biology-learning-assistant-system.googlecode.com/svn/d1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/d3.jpg]
 
 [http://biology-learning-assistant-system.googlecode.com/svn/d2.jpg]
 [http://biology-learning-assistant-system.googlecode.com/svn/f3.jpg]
