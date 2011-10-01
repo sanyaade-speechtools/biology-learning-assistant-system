@@ -2,7 +2,7 @@
 <wiki:toc max_depth = "2" />
 
 =Project Title:=	 
-<br>Biology Learning Assistant System</br>
+<br>Gene Expression Learning Assistant System</br>
 <br>Team Skill 1:	 Analyzing the Problem</br>
 <br>Team Members:	 Lei, Zhang;Qing, Guan;Tao, Ding</br>
 
