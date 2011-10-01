@@ -2,7 +2,7 @@
 <wiki:toc max_depth = "2" />
 =Project Name=
 ----
-Biology Learning Assistant System
+Gene Expression Learning Assistant System
 
 =Project Description=
 
@@ -30,5 +30,3 @@ Biology Learning Assistant System
 <br>Member: Lei Zhang leochang1983@gmail.com</br>
 <br>Member: Guan Qing dinaguan1018@gmail.com</br>
 <br>Member: Tao  Ding TDing1027@gmail.com</br>
-
-
