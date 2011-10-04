@@ -13,6 +13,9 @@ The project is developed mainly to solve the difficulty in biology education the
 [http://biology-learning-assistant-system.googlecode.com/svn/t1.jpg]
 = Problem Statement for Students = 
 [http://biology-learning-assistant-system.googlecode.com/svn/t2.jpg]
+= The Root Cause of Problem =
+[http://biology-learning-assistant-system.googlecode.com/svn/fishbone.jpg]
+
 = BLAS System Block Diagram with Actors Identified =
 [http://biology-learning-assistant-system.googlecode.com/svn/d4.jpg]
 
