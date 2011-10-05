@@ -63,12 +63,10 @@
 == The Requirement Workshop ==
 
 === Attendees of Entry Management System Requirements Workshop ===
-
+[http://biology-learning-assistant-system.googlecode.com/svn/workshop_attend.jpg]
 === Entry Management System Requirements Workshop Structure ===
-
+[http://biology-learning-assistant-system.googlecode.com/svn/role.jpg]
 === Setting the Agenda === 
-
+[http://biology-learning-assistant-system.googlecode.com/svn/agenda.jpg]
 === The Analysis of the Results ===
 <br>Features Collected at the Requirements Workshop</br>
-
-== User-Case Model Survey ===
