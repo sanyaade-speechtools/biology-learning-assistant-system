@@ -25,7 +25,7 @@
 [http://biology-learning-assistant-system.googlecode.com/svn/as_is_table.jpg]
 === 2.1.2 Proposed or “To Be” Process Flow and Process Steps ===
 [http://biology-learning-assistant-system.googlecode.com/svn/to_bev2.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/to_be_table.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/to_be_table2.jpg]
 == 2.2 New Process Requirements ==
 
 === Business Requirements ===
