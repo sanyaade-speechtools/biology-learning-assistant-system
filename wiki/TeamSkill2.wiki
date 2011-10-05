@@ -7,23 +7,23 @@
 
 === From visitors point of view ===
 <br>System should be easy to access.</br>
-<br>User interface friendly.</br>
+<br>System should be user interface friendly.</br>
 <br>System should provide security.</br>
 
 === From professors point of view === 
-<br>The system has to have high-level access permission.</br>
+<br>Professors should have high-level access permission.</br>
 <br>System should provide security.</br>
-<br>Flexibility.</br>
-<br>Keep track of past information.</br>
-<br>Interactive ability.</br>
-<br>Saves time.</br>
-<br>Support interesting ways and materials to teach.</br>
+<br>System should have flexibility to update or create data.</br>
+<br>System should keep track of past information.</br>
+<br>System should have interactive ability.</br>
+<br>System should help to save time and energy.</br>
+<br>System should upport interesting ways and materials to teach.</br>
 
 === From students point of view === 
-<br>Flexibility 24/7.</br>
-<br>Easy to remember.</br>
-<br>More interesting (not like :PPT. articles)</br>
-<br>Interactive for students.</br>
+<br>System should be 24X7.</br>
+<br>Gene expression information should be easy to remember.</br>
+<br>System should be more interesting (not like :PPT. articles)</br>
+<br>System should be interactive with students.</br>
 
 === Interview notes ===
 <br>*Who are the users?*</br>
