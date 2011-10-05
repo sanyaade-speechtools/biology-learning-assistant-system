@@ -1,0 +1,26 @@
+<wiki:toc max_depth = "3" />
+
+= Understanding stakeholder and user's need =
+
+== Summary of User Needs as Collected from Interviews ==  
+<br>Interview involved the visitors who are interesting in gene expression, the students who study gene expression, and the professors who teach gene expression. The following are the outcomes from the interview:</br>
+
+=== From visitors point of view ===
+<br>System should be easy to access.</br>
+<br>User interface friendly.</br>
+<br>System should provide security.</br>
+
+=== From professors point of view === 
+<br>The system has to have high-level access permission.</br>
+<br>System should provide security.</br>
+<br>Flexibility.</br>
+<br>Keep track of past information.</br>
+<br>Interactive ability.</br>
+<br>Saves time.</br>
+<br>Support interesting ways and materials to teach.</br>
+
+=== From students point of view === 
+<br>Flexibility 24/7.</br>
+<br>Easy to remember.</br>
+<br>More interesting (not like :PPT. articles)</br>
+<br>Interactive for students.</br>
