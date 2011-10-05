@@ -24,3 +24,17 @@
 <br>Easy to remember.</br>
 <br>More interesting (not like :PPT. articles)</br>
 <br>Interactive for students.</br>
+
+=== Interview notes ===
+<br>Who are the users?</br>
+<br>Biology students</br>
+<br>Professors are the main users of the system</br>
+<br>The administrator who has the highest authority to manage the whole system</br>
+<br></br>
+<br>Who are the stakeholders?</br>
+<br>biology educational institutions</br>
+<br>biology professor</br>
+<br></br>
+<br>What are the security issues?</br>
+<br>The system should check the authorization of any user logging in</br>
+<br>Security including database backup, password protection</br>
