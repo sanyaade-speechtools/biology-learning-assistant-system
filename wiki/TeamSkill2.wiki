@@ -71,3 +71,5 @@
 === The Analysis of the Results ===
 <br>Features Collected at the Requirements Workshop</br>
 [http://biology-learning-assistant-system.googlecode.com/svn/voting.jpg]
+
+== User Case ==
