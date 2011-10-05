@@ -10,9 +10,9 @@
 The project is developed mainly to solve the difficulty in biology education the stakeholders mention. After problem analyzing, BLAS teams identified 
 
 = Problem Statement for Professors =
-[http://biology-learning-assistant-system.googlecode.com/svn/t1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/table_1.jpg]
 = Problem Statement for Students = 
-[http://biology-learning-assistant-system.googlecode.com/svn/t2.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/table_2.jpg]
 = The Root Cause of Problem =
 [http://biology-learning-assistant-system.googlecode.com/svn/fishbone.jpg]
 
