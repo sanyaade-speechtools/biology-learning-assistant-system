@@ -63,3 +63,12 @@
 == The Requirement Workshop ==
 
 === Attendees of Entry Management System Requirements Workshop ===
+
+=== Entry Management System Requirements Workshop Structure ===
+
+=== Setting the Agenda === 
+
+=== The Analysis of the Results ===
+<br>Features Collected at the Requirements Workshop</br>
+
+== User-Case Model Survey ===
