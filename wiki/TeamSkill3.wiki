@@ -15,7 +15,7 @@ The project is solving current problems in order to design some funny methods to
 
 === 1.3.References ===
 <br>This document references the following:</br>
-<br>*BusinessProcessDefinition</br>
+<br>*BusinessProcessDefine</br>
 <br>*TeamSkill1</br>
 <br>*TeamSkill2</br>
 
