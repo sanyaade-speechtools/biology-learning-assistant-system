@@ -101,14 +101,14 @@ The requirements analyzed are handed over to the software team to start the elab
 
 == 6.Exemplary of User Case ==
 [http://biology-learning-assistant-system.googlecode.com/svn/use_case.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/ucdesc1.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/ucdesc2.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/ucdesc3.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/ucdesc4.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/ucdesc5.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/ucdesc6.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/ucdesc7.jpg]
-[http://biology-learning-assistant-system.googlecode.com/svn/ucdesc8.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/uc_desc1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/uc_desc2.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/uc_desc3.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/uc_desc4.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/uc_desc5.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/uc_desc6.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/uc_desc7.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/uc_desc8.jpg]
 == 7.Other Product Requirements ==
 === 7.1 Application Standard ===
 <br>Windows, Linux for platform standard</br>
