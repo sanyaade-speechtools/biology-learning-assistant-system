@@ -90,11 +90,11 @@ Release of phase 1 is likely to take 2 months i.e. phase 1 should be ready for a
 The requirements analyzed are handed over to the software team to start the elaboration phase for all the requirements that are feasible and clear in requirement statement. 
 
 == 5.Product Features ==
-=== 5.1 Critical Features for v1.0 ===
+=== 5.1 Critical Features ===
 <br>Feature 1: The system should give the user and stakeholder one very friendly interface and attract the users to pay an attention to the system. And the system should give the professors (stakeholder) useful and convenience interface and tool to teaching and managing the Gene Expression data.</br>
 <br>Feature 10: The traditional teaching method could have the interactive ability between the professors and students. The students only use passive learning way to study the information and which is very difficult to transfer information to knowledge. The new system would use computer-game way, which is give students chance to real understand, to increase learning interest and learning effect of students.</br>
 <br>Feature 16: Multiple media learning resource is a very important part for the new system. Old teaching materials only include reading-list, PowerPoint and website-information (Wikipedia). These kinds of materials could not attract students and produce low effect. The new type of resource could use Video, Flash cartoon, colorful pictures to teaching. It would be impress students to remember Gene Expression information.</br>
-=== 5.2 Important Features for v1.0 ===
+=== 5.2 Important Features ===
 <br>Feature 14: The new system could provide one platform to professors and students. Professors could upload some useful materials which could be book name, paper, PowerPoint and at same time, students could download these materials from system. The advantages of this feature are professors could save time to introduce extra learning materials to students, and students could have an efficiency way to find studying materials.  </br>
 <br>Feature 13: The system should have 24X7 Service. The students could use the system at any time which gives them more free time and space to make a schedule to study. And professors could upload the information and manage data at any time which could be suitable with professors’ time table.</br>
 <br>Feature 5: The professors and students should have different authority. The professors should have the access permission to manage related data which include his students and upload by them. The students only could login the system and study, they could not check other users information.</br>
