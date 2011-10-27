@@ -12,5 +12,5 @@
 [http://biology-learning-assistant-system.googlecode.com/svn/bl_i.jpg]
 === v1.0 Optional: Do as many as you can ====
 ----
-<br>Future Features: Below this line, no current development</br>
+=== Future Features: Below this line, no current development ===
 [http://biology-learning-assistant-system.googlecode.com/svn/bl_f.jpg]
