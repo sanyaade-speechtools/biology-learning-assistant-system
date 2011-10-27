@@ -7,9 +7,10 @@
 [http://biology-learning-assistant-system.googlecode.com/svn/prior_fl.jpg]
 == Baseline for v1.0 Features ==
 [http://biology-learning-assistant-system.googlecode.com/svn/bl_c.jpg]
-<br>v1.0 Mandatory Baseline: Everything above the line must be included</br>
+=== v1.0 Mandatory Baseline: Everything above the line must be included ===
+----
 [http://biology-learning-assistant-system.googlecode.com/svn/bl_i.jpg]
-<br>v1.0 Optional: Do as many as you can</br>
--------------------------------------------------------------------------------
+=== v1.0 Optional: Do as many as you can ====
+----
 <br>Future Features: Below this line, no current development</br>
 [http://biology-learning-assistant-system.googlecode.com/svn/bl_f.jpg]
