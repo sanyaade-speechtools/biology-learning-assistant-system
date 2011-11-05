@@ -100,7 +100,7 @@ The requirements analyzed are handed over to the software team to start the elab
 <br>Feature 5: The professors and students should have different authority. The professors should have the access permission to manage related data which include his students and upload by them. The students only could login the system and study, they could not check other users information.</br>
 
 == 6.Exemplary of User Case ==
-[http://biology-learning-assistant-system.googlecode.com/svn/use_case.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/UseCaseForRE.jpg]
 [http://biology-learning-assistant-system.googlecode.com/svn/uc_desc1.jpg]
 [http://biology-learning-assistant-system.googlecode.com/svn/uc_desc2.jpg]
 [http://biology-learning-assistant-system.googlecode.com/svn/uc_desc3.jpg]
