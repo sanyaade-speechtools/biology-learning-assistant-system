@@ -1,2 +1,26 @@
 #labels Featured
 = Prototype Screen Shot =
+
+Login Page
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Home.jpg]
+
+Student Menu
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/StudntWelcome.jpg]
+
+Stuent User Management
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/UploadInform.jpg]
+
+Study Materials
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Study_Materials.jpg]
+
+Play Game
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/PlayGame.jpg]
+
+Take Quiz
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Take_Quiz.jpg]
+
+Get Feedback
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Feedback.jpg]
+
+Ask Question
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/OnlineQuestion.jpg]
