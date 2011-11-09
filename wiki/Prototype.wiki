@@ -1,26 +1,44 @@
 #labels Featured
 = Prototype Screen Shot =
 
-Login Page
+== Login Page ==
 [http://biology-learning-assistant-system.googlecode.com/svn/sc/Home.jpg]
 
-Student Menu
+== Student Menu ==
 [http://biology-learning-assistant-system.googlecode.com/svn/sc/StudntWelcome.jpg]
 
-Stuent User Management
+== Stuent User Management ==
 [http://biology-learning-assistant-system.googlecode.com/svn/sc/UploadInform.jpg]
 
-Study Materials
+== Study Materials ==
 [http://biology-learning-assistant-system.googlecode.com/svn/sc/Study_Materials.jpg]
 
-Play Game
+== Play Game ==
 [http://biology-learning-assistant-system.googlecode.com/svn/sc/PlayGame.jpg]
 
-Take Quiz
+== Take Quiz ==
 [http://biology-learning-assistant-system.googlecode.com/svn/sc/Take_Quiz.jpg]
 
-Get Feedback
+== Get Feedback ==
 [http://biology-learning-assistant-system.googlecode.com/svn/sc/Feedback.jpg]
 
-Ask Question
+== Ask Question ==
 [http://biology-learning-assistant-system.googlecode.com/svn/sc/OnlineQuestion.jpg]
+
+== Professor WELCOME ==
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/ProfWelcome.jpg]
+
+== Upload Materials ==
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Upload_Materials.jpg]
+
+== Upload Quiz ==
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Upload_Quiz.jpg]
+
+== Check Result ==
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Give_Feedback.jpg]
+
+== Answer Question ==
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Online_Question.jpg]
+
+== Manage Resource == 
+[http://biology-learning-assistant-system.googlecode.com/svn/sc/Manage_Resource.jpg]
