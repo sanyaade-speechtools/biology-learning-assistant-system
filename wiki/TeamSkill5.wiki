@@ -13,7 +13,8 @@ Gene Expression Learning Assistant System helps the biology students to better u
 
 === 1.3 Reference ===
 Project Description
-<br>Team Skill 3</br>
+<p>
+Team Skill 3
 
 == 2.Overall Description == 
 
