@@ -12,7 +12,7 @@ The main purpose of SRS is to describe and collect functional and non functional
 Gene Expression Learning Assistant System helps the biology students to better understand the gene knowledge by non-traditional ways, such as playing games, and provides feedback by the professors to accomplish the aims of learning Gene knowledge. A detailed project description is available in Project Description and TeamSkill3.
 
 === 1.3 Reference ===
-<br>Project Description</br>
+Project Description
 <br>Team Skill 3</br>
 
 == 2.Overall Description == 
