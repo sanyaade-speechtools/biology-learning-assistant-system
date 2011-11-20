@@ -50,7 +50,8 @@ SRS-9 Some operations need to be approved by the person having the authority in 
 
 == 3.System Features ==
 === Function Requirements ===
-
+[http://biology-learning-assistant-system.googlecode.com/svn/fr1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/fr2.jpg]
 ==  4.External Interface Requirements ==
 === 4.1	User Interfaces ===
 SRS-10 The Biology Learning System displays shall conform to the Process Impact Internet Application User Interface Standard, Version 2.0 [4].
