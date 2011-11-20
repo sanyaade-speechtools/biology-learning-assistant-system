@@ -22,7 +22,7 @@ Team Skill 3
 The Gene Expression Learning Assistant System can be a great alternative of using traditional methods in learning and understanding biology. It acts like a personal tutor in order to achieve learning biology plus saving time and efforts for both students and professors. 
 
 === 2.2	User Classes and Characteristics ===
-
+[http://biology-learning-assistant-system.googlecode.com/svn/contextD.jpg]
 === 2.3	Operating Environment ===
 <br>SRS-1 The Gene Expression Learning Assistant System requires the user to have a  computer connecting to the Internet. </br>
 <br>SRS-2 The Gene Expression Learning Assistant System operates with any web        browser like: Firefox, Internet Explorer, and Google Chrome.</br>
