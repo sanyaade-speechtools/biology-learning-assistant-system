@@ -23,6 +23,11 @@ The Gene Expression Learning Assistant System can be a great alternative of usin
 
 === 2.2	User Classes and Characteristics ===
 [http://biology-learning-assistant-system.googlecode.com/svn/contextD.jpg]
+Students: The biology students who use Gene Expression Learning Assistant System. The students will login the system, update their information including email address or contact method. They are the normal users for the system: watch video, play game, take quiz and ask online question.
+<p>
+Professors: The biology professors who are stakeholders of project. They give some information to students and get some information: quiz report/question from students. The project is developed to improve professors teaching effective.
+<p>
+Administrators: Some of professors who manage the system. Manage the resource: upload, modify, delete the video/flash, paper, book list and quiz question. Manage the database of system and set database recovery or security rules. They could check system log from system.
 === 2.3	Operating Environment ===
 <br>SRS-1 The Gene Expression Learning Assistant System requires the user to have a  computer connecting to the Internet. </br>
 <br>SRS-2 The Gene Expression Learning Assistant System operates with any web        browser like: Firefox, Internet Explorer, and Google Chrome.</br>
