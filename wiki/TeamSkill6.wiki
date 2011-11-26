@@ -35,10 +35,10 @@ Alternative flow 4: User chooses available materials, not valid value in materia
 Alternative flow 5: User chooses available materials, input valid values in materials description and don’t upload valid material, then clicks the submit button.
 <p>
 Alternative flow 6: User chooses available materials, input invalid values in materials description and don’t upload valid materials, then clicks the submit button.
-[http://biology-learning-assistant-system.googlecode.com/svn/fr2_1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/test_d.jpg]
 === Identify Scenarios ===
-[http://biology-learning-assistant-system.googlecode.com/svn/fr2_1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/scen.jpg]
 === Variables Used To Realize Scenarios ===
-[http://biology-learning-assistant-system.googlecode.com/svn/fr2_1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/var.jpg]
 === Test Cases ===
-[http://biology-learning-assistant-system.googlecode.com/svn/fr2_1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/testcase.jpg]
