@@ -2,7 +2,7 @@
 = Build Right System =
 == Test cases ==
 
-=== Test cases: Administrator System ===
+=== Test case  ===
 Description
 <p>
 The test cases are used to test instances of the Administrator System use case.
