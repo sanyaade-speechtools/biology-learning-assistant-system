@@ -43,3 +43,9 @@ Alternative flow 6: User chooses available materials, input invalid values in ma
 [http://biology-learning-assistant-system.googlecode.com/svn/var.jpg]
 === Test Cases ===
 [http://biology-learning-assistant-system.googlecode.com/svn/testcase.jpg]
+
+=== Test Cases ===
+[http://biology-learning-assistant-system.googlecode.com/svn/tc_1.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/tc_2.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/tc_3.jpg]
+[http://biology-learning-assistant-system.googlecode.com/svn/tc_4.jpg]
