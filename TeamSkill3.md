@@ -1,0 +1,138 @@
+
+
+# Vision Document #
+
+# Revision History #
+![http://biology-learning-assistant-system.googlecode.com/svn/Revision.jpg](http://biology-learning-assistant-system.googlecode.com/svn/Revision.jpg)
+## 1.Introduction ##
+
+### 1.1.Purpose of the Vision Document ###
+This document explains the features and user needs of Biology Studying System.
+
+### 1.2.Product Overview ###
+The project is solving current problems in order to design some funny methods to help professors to teach gene knowledge to students and attract students learning biology. According to requirements from stakeholders, there are main two steps in Gene Expression, transcription and translation, they mainly want to display these two steps clearly and attract students learning biological rules.
+
+### 1.3.References ###
+<br>This document references the following:</br>
+<br>**BusinessProcessDefine</br>**<br>**TeamSkill1</br>**<br>**TeamSkill2</br>**
+
+## 2.User Description ##
+
+### 2.1.User/Market Demographics ###
+The users of the Biology Studying System are the students, professor and other visitor who are interested biological studying.
+
+### 2.2.User Profiles ###
+<br>Students: Range from school children to college students. They are distributed in different classes who can get information in their groups.</br>
+<br>Visitor: Anyone who wants to understand whole process of gene expression.</br>
+<br>Professor: Professor who are teaching content about gene expression. They aso can get feedback from system.</br>
+<br>Administrator: Anyone who is responsible to update and maintain the system.</br>
+
+### 2.3.User Environment ###
+This system will be a web-based application. Hence, the only environmental considerations are the available ways of accessing the web page. Any web browser will be sufficient for both students, professor and the administrator.
+
+### 2.4.Key User Needs ###
+<br>From the Students Perspective</br>
+<br>Easy to access</br>
+<br>Display the process clearly </br>
+<br>Flexible to control the time</br>
+<br>Ability to review in process</br>
+
+<br>From the Professors Perspective</br>
+<br>Easy to access</br>
+<br>Provide impressive approach to display gene expression</br>
+<br>Ability to get feedback from students</br>
+<br>Ability to share some useful materials</br>
+
+<br>From the Visitor Perspective</br>
+<br>Easy to access</br>
+<br>Easy to search for specific information they want</br>
+<br>Flexible to control the </br>
+
+<br>From the Administrator Perspective</br>
+<br>Distribute authority according to different actors.</br>
+<br>Ability to update materials</br>
+<br>Account proctection</br>
+
+<br>Other Needs</br>
+<br>Web-based application</br>
+<br>User-friendly interface</br>
+<br>Easy to use</br>
+<br>Must be reliable</br>
+
+## 3. Product Overview ##
+### 3.1.Product Perspective ###
+![http://biology-learning-assistant-system.googlecode.com/svn/Product_P.jpg](http://biology-learning-assistant-system.googlecode.com/svn/Product_P.jpg)
+### 3.2 Product Position ###
+![http://biology-learning-assistant-system.googlecode.com/svn/Product_Pos.jpg](http://biology-learning-assistant-system.googlecode.com/svn/Product_Pos.jpg)
+### 3.3 Summary of Capabilities ###
+The system is to help students to study gene expression through on-line. That provides impressive approach to display the process, and interactive approach to obtain the feedback.
+### 3.4 Assumption and Dependencies ###
+### 3.5 Cost Pricing ###
+The cost of the system consist of the cost of design animation, flash game, web development, server management and maintenance.
+
+## 4.Feature Attribute ##
+### 4.1.Status ###
+A shared folder is maintained a common and secure server to highlight the status of the project. The folder is accessible to privileged people in both developer and stakeholder team. Here all the requirement documents are maintained.
+### 4.2.Priority ###
+The priority features analyzed in the team skill2 and all the baseline requirements will be developed.
+### 4.3.Effort ###
+The development team is responsible to maintain a time sheet for each team member working in the project to put in the number of hours he/she worked.
+### 4.4.Risk ###
+The risk (if any) in developing each feature for the project is analyzed and documented.
+### 4.5.Stability ###
+Features are stable and any change in requirement from the stakeholder will be considered as enhancements. The stable and clear set of requirements are considered for the release in the first phase and ambiguous requirements are investigated more and taken in next phases.
+### 4.6.Target Release ###
+Release of phase 1 is likely to take 2 months i.e. phase 1 should be ready for acceptance test by December.
+### 4.7.Assigned to ###
+The requirements analyzed are handed over to the software team to start the elaboration phase for all the requirements that are feasible and clear in requirement statement.
+
+## 5.Product Features ##
+### 5.1 Critical Features ###
+<br>Feature 1: The system should give the user and stakeholder one very friendly interface and attract the users to pay an attention to the system. And the system should give the professors (stakeholder) useful and convenience interface and tool to teaching and managing the Gene Expression data.</br>
+<br>Feature 10: The traditional teaching method could have the interactive ability between the professors and students. The students only use passive learning way to study the information and which is very difficult to transfer information to knowledge. The new system would use computer-game way, which is give students chance to real understand, to increase learning interest and learning effect of students.</br>
+<br>Feature 16: Multiple media learning resource is a very important part for the new system. Old teaching materials only include reading-list, PowerPoint and website-information (Wikipedia). These kinds of materials could not attract students and produce low effect. The new type of resource could use Video, Flash cartoon, colorful pictures to teaching. It would be impress students to remember Gene Expression information.</br>
+### 5.2 Important Features ###
+<br>Feature 14: The new system could provide one platform to professors and students. Professors could upload some useful materials which could be book name, paper, PowerPoint and at same time, students could download these materials from system. The advantages of this feature are professors could save time to introduce extra learning materials to students, and students could have an efficiency way to find studying materials.  </br>
+<br>Feature 13: The system should have 24X7 Service. The students could use the system at any time which gives them more free time and space to make a schedule to study. And professors could upload the information and manage data at any time which could be suitable with professors’ time table.</br>
+<br>Feature 5: The professors and students should have different authority. The professors should have the access permission to manage related data which include his students and upload by them. The students only could login the system and study, they could not check other users information.</br>
+
+## 6.Exemplary of User Case ##
+![http://biology-learning-assistant-system.googlecode.com/svn/UseCaseForRE.jpeg](http://biology-learning-assistant-system.googlecode.com/svn/UseCaseForRE.jpeg)
+![http://biology-learning-assistant-system.googlecode.com/svn/uc_desc1.jpg](http://biology-learning-assistant-system.googlecode.com/svn/uc_desc1.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/uc_desc2.jpg](http://biology-learning-assistant-system.googlecode.com/svn/uc_desc2.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/uc_desc3.jpg](http://biology-learning-assistant-system.googlecode.com/svn/uc_desc3.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/uc_desc4.jpg](http://biology-learning-assistant-system.googlecode.com/svn/uc_desc4.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/uc_desc5.jpg](http://biology-learning-assistant-system.googlecode.com/svn/uc_desc5.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/uc_desc6.jpg](http://biology-learning-assistant-system.googlecode.com/svn/uc_desc6.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/uc_desc7.jpg](http://biology-learning-assistant-system.googlecode.com/svn/uc_desc7.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/uc_desc8.jpg](http://biology-learning-assistant-system.googlecode.com/svn/uc_desc8.jpg)
+## 7.Other Product Requirements ##
+### 7.1 Application Standard ###
+<br>Windows, Linux for platform standard</br>
+<br>TCP/IP for communication standard</br>
+<br>ISO for quality standard</br>
+### 7.2 System requirements ###
+<br>Must use IE, Firefox explorer</br>
+<br>SQL Server 2000</br>
+<br>Internet Access Port</br>
+### 7.3 Licensing, Security and Installation ###
+<br>No license is required for creating, production or sale. </br>
+<br>Basic Security includes database recovery, back-up, firewall, anti-virus software. </br>
+<br>No requirement for installation.</br>
+### 7.4 Performance Requirements ###
+<br>Provide user easy-access and low pressure for system server.</br>
+<br> Provide high bandwidth of network.</br>
+<br>Record each action for the system.</br>
+
+## 8.Documentation Requirements ##
+### 8.1 User Manual ###
+<br>This User Manual provides guidelines on how to cope up with the user-friendly interface of the system application. The user manual will provide all the necessary information about how to register and how to use this system in an efficient manner, describing each and every section of the system.</br>
+### 8.2 Online help ###
+<br>The system would provide the online help for users and stakeholders. Q&A would support for some popular question and problem. Online answer system would transfer the users’ emergency question to administrators.</br>
+### 8.3 Installation Guides, Configuration, Read Me File ###
+<br>The system would not use Server/Client architecture. Only have configuration and read me file to administrators.<br>
+<h3>8.4 Labeling and Packaging</h3>
+<br>The system will be delivered by stakeholders (professors) to train the users (students) to operate system.</br>
+
+<h2>9.Glossary</h2>
+No additional technical terms are required for understanding this document or project.

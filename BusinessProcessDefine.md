@@ -1,0 +1,97 @@
+
+
+# 1.0 BUSINESS OBJECTIVES FOR PROCESS #
+<br>Recently, traditional teaching methods for complex biology process is very difficult to understand for students without previous background knowledge. In classroom, teachers also display this kind of process by chalk on blackboard.</br>
+
+<br>Although there are some technical methods to support teachers such as power point, video, voice record and so on, students have to meet one problem which is they could not feel funny with biology learning. And biology studying is too difficult for self learner who is interested in biology especially gene stable.</br>
+
+<br>The project displays the whole process by Flash animation, design two games for each steps, and provide on-line quiz to students or other users who want to learning this kind of knowledge. While, the project provides function that allows teachers upload the question bank according to each steps.</br>
+
+<br>The gene stable process has two steps: transcription and translation. Transcription is gene expression from DNA to mRNA. It uses ATCG-UAGC rule and compare with DNA and mRNA from millions of gene unit. After that, the translation which is second gene expression transfer mRNA to Amino Acid which uses different rules. Finally, the Amino Acid is used for generating protein.</br>
+
+# 2.0 BUSINESS REQUIREMENTS #
+<br>The system should include Gene Stable information in Biology.</br>
+<br>The system should display the transcription process of Gene Stable in Biology.</br>
+<br>The system should display the translation process of Gene Stable in Biology.</br>
+<br>The system should find interesting learning methods and attract all the students who do not have the Biology background.</br>
+<br>The system should be convenient for both stakeholders and users: professors and students.</br>
+<br>The system should give specific access permission to all the users, register simple and access easily.</br>
+<br>The system should be easily understandable and acceptable for end-users.</br>
+## 2.1 Process Flows ##
+
+### 2.1.1 Existing or “As Is” Process Flow and Process Steps ###
+![http://biology-learning-assistant-system.googlecode.com/svn/as_is.jpg](http://biology-learning-assistant-system.googlecode.com/svn/as_is.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/as_is_table.jpg](http://biology-learning-assistant-system.googlecode.com/svn/as_is_table.jpg)
+### 2.1.2 Proposed or “To Be” Process Flow and Process Steps ###
+![http://biology-learning-assistant-system.googlecode.com/svn/to_bev2.jpg](http://biology-learning-assistant-system.googlecode.com/svn/to_bev2.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/to_be_table2.jpg](http://biology-learning-assistant-system.googlecode.com/svn/to_be_table2.jpg)
+## 2.2 New Process Requirements ##
+
+### Business Requirements ###
+<br>The final new system should be easy to know by professors and let them choose this system.</br>
+
+### System Requirements ###
+<br>The system should have online function and 24x7 to help students to self-learning.</br>
+
+### Reporting Requirements ###
+<br>The system should generate the students’ quiz report to professor for checking students’ status.</br>
+
+### Data Requirements ###
+<br>All the information of Gene Stable in Biology should store in the system. Question bank should be stored in the system and available for uploading questions by stakeholder: professor.</br>
+
+### Security Requirements ###
+<br>All the data should be secured.</br>
+> <br>The professor should have high level access, to manage data and check all the data about students.</br>
+> <br>The normal users (students) should have low level access, to manage their own data.</br>
+<br>The system should have firewall and anti-virus software to project data from attacks.</br>
+
+### Personnel Requirements ###
+|**Name**|**Organization** |**Role**|
+|:-------|:----------------|:-------|
+|Yunkai Liu  |Gannon Uni       |Biology Information Advisor |
+|Frank Xu |Gannon Uni       |Project Manager |
+
+### Support Requirements ###
+|**Name**|**Organization** |**Role**|
+|:-------|:----------------|:-------|
+|Yunkai Liu  |Gannon Uni       |Biology Information Advisor |
+|Frank Xu |Gannon Uni       |Project Manager |
+
+
+## 2.3 Business Impact ##
+By using the website and flash animation, the benefit of system is that increasing students’ interest in Biology learning and improve the teaching eff
+### 2.3.1 Metrics to Measure Business Impact ###
+<br>No manpower needs.</br>
+<br>No paper materials and work.</br>
+### 2.3.2 Business Dependencies ###
+System is stored Biology information and quiz question bank from professors
+The normal users input little information to the system and quickly login.
+### 2.3.3 Business Risks ###
+<br>The professors do not trust the system.</br>
+<br>The professors still want to use traditional teach methods.</br>
+<br>The system would not have enough market influence.</br>
+
+## 2.4 Technology Impact ##
+### 2.4.1 Technology Dependencies ###
+Website server, computers and Internet
+### 2.4.2 Technology Risks ###
+<br>Computer crash</br>
+<br>Network connection problem</br>
+<br>Network security problem</br>
+<br>Database risk</br>
+
+# 3.0 ASSUMPTIONS #
+<br>The following assumptions define the advantages of new system comparing with old traditional system:</br>
+
+<br>User interface friendly</br>
+<br>Simple system construct and low cost</br>
+<br>Interesting learning methods and colorful graph</br>
+
+# 4.0 ISSUES #
+The system should be used for Biology professors and their students.
+
+# 5.0 PROJECT SUCCESS CRITERIA #
+<br>The system should be interesting for learning and easy for teaching.</br>
+<br>The system should access easily and everywhere have the Internet.</br>
+<br>The requirement should have simple, clear and correct documentations.<br>
+</br>

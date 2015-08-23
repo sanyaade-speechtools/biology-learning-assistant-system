@@ -1,0 +1,43 @@
+# Prototype Screen Shot #
+
+## Login Page ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Home.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Home.jpg)
+
+## Student Menu ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/StudntWelcome.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/StudntWelcome.jpg)
+
+## Stuent User Management ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/UploadInform.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/UploadInform.jpg)
+
+## Study Materials ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Study_Materials.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Study_Materials.jpg)
+
+## Play Game ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/PlayGame.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/PlayGame.jpg)
+
+## Take Quiz ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Take_Quiz.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Take_Quiz.jpg)
+
+## Get Feedback ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Feedback.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Feedback.jpg)
+
+## Ask Question ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/OnlineQuestion.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/OnlineQuestion.jpg)
+
+## Professor WELCOME ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/ProfWelcome.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/ProfWelcome.jpg)
+
+## Upload Materials ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Upload_Materials.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Upload_Materials.jpg)
+
+## Upload Quiz ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Upload_Quiz.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Upload_Quiz.jpg)
+
+## Check Result ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Give_Feedback.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Give_Feedback.jpg)
+
+## Answer Question ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Online_Question.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Online_Question.jpg)
+
+## Manage Resource ##
+![http://biology-learning-assistant-system.googlecode.com/svn/sc/Manage_Resource.jpg](http://biology-learning-assistant-system.googlecode.com/svn/sc/Manage_Resource.jpg)

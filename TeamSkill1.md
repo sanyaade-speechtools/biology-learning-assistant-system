@@ -1,0 +1,31 @@
+
+
+# Project Title: #
+<br>Gene Expression Learning Assistant System</br>
+<br>Team Skill 1:	 Analyzing the Problem</br>
+<br>Team Members:	 Lei, Zhang;Qing, Guan;Tao, Ding；Jehad</br>
+
+# BLAS Problem Statement #
+The project is developed mainly to solve the difficulty in biology education the stakeholders mention. After problem analyzing, BLAS teams identified
+
+# Problem Statement for Professors #
+![http://biology-learning-assistant-system.googlecode.com/svn/table_1.jpg](http://biology-learning-assistant-system.googlecode.com/svn/table_1.jpg)
+# Problem Statement for Students #
+![http://biology-learning-assistant-system.googlecode.com/svn/table_2.jpg](http://biology-learning-assistant-system.googlecode.com/svn/table_2.jpg)
+# The Root Cause of Problem #
+![http://biology-learning-assistant-system.googlecode.com/svn/fishbone.jpg](http://biology-learning-assistant-system.googlecode.com/svn/fishbone.jpg)
+
+# BLAS System Block Diagram with Actors Identified #
+![http://biology-learning-assistant-system.googlecode.com/svn/d4.jpg](http://biology-learning-assistant-system.googlecode.com/svn/d4.jpg)
+
+![http://biology-learning-assistant-system.googlecode.com/svn/d2.jpg](http://biology-learning-assistant-system.googlecode.com/svn/d2.jpg)
+![http://biology-learning-assistant-system.googlecode.com/svn/f3.jpg](http://biology-learning-assistant-system.googlecode.com/svn/f3.jpg)
+<br>Figure BLAS with subsystem and actors</br>
+
+# Actor Survey #
+## Actors for BLAS ##
+![http://biology-learning-assistant-system.googlecode.com/svn/t3.jpg](http://biology-learning-assistant-system.googlecode.com/svn/t3.jpg)
+## Non actor stakeholders for DIST ##
+![http://biology-learning-assistant-system.googlecode.com/svn/t4.jpg](http://biology-learning-assistant-system.googlecode.com/svn/t4.jpg)
+# Constraints Imposed on the Solution #
+![http://biology-learning-assistant-system.googlecode.com/svn/t5.jpg](http://biology-learning-assistant-system.googlecode.com/svn/t5.jpg)
